@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:paddingRight="10px"
+        android:id="@+id/id"
+        android:text="ssss"
+        android:layout_width= "wrap_content"
+        android:layout_height= "wrap_content"
+        android:background="@drawable/keyboard"
+        />
+    <TextView
+        android:paddingRight="10px"
+        android:text="ssss"
+        android:id="@+id/expression_name"
+        android:layout_width= "wrap_content"
+        android:layout_height= "wrap_content"
+        android:background="@drawable/keyboard"
+        />
+    <TextView
+        android:paddingRight="10px"
+        android:text="ssss"
+        android:id="@+id/expression_result"
+        android:layout_width= "wrap_content"
+        android:layout_height= "wrap_content"
+        android:background="@drawable/keyboard"
+        />
+
+</LinearLayout>
